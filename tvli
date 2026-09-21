@@ -1,0 +1,121 @@
+{
+  "channelList": [
+    { "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8", "name": "非凡新聞", "header": "Referer: https://fetfriday.svc.litv.tv/" },
+    { "url": "https://aka03p.akamaized.net/litv/fet003.smil/playlist.m3u8", "name": "華視新聞", "header": "Referer: https://fetfriday.svc.litv.tv/" },
+    { "url": "https://aka03p.akamaized.net/litv/fet004.smil/playlist.m3u8", "name": "民視新聞", "header": "Referer: https://fetfriday.svc.litv.tv/" },
+    { "url": "https://aka03p.akamaized.net/litv/fet005.smil/playlist.m3u8", "name": "TVBS新聞", "header": "Referer: https://fetfriday.svc.litv.tv/" },
+    { "url": "http://74.91.26.218:82/live/ttv.m3u8", "name": "台視" },
+    { "url": "http://74.91.26.218:82/live/ftv.m3u8", "name": "民視" },
+    { "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv040", "name": "中視" },
+    { "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv041", "name": "華視" },
+    { "url": "http://74.91.26.218:82/live/ttvcj.m3u8", "name": "台視財經" },
+    { "url": "http://125.227.210.55:1085/VideoInput/play.ts", "name": "八大第一" },
+    { "url": "rtmp://f13h.mine.nu:1935/sat/tv721", "name": "緯來體育" },
+    { "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv052", "name": "華視新聞" },
+    { "url": "https://www.ofiii.com/channel/watch/mnews", "name": "鏡電視新聞台" },
+    { "url": "https://www.ofiii.com/channel/watch/setnews", "name": "三立新聞LIVE" },
+    { "url": "https://www.ofiii.com/channel/watch/iNEWS", "name": "三立新聞iNEWS" },
+    { "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv158", "name": "寰宇財經台" },
+    { "url": "https://www.ofiii.com/channel/watch/litv-longturn14", "name": "寰宇新聞台" },
+    { "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv156", "name": "寰宇新聞台灣台" },
+    { "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv009", "name": "中天新聞台" },
+    { "url": "https://www.ofiii.com/channel/watch/litv-ftv16", "name": "好消息" },
+    { "url": "https://www.ofiii.com/channel/watch/litv-ftv17", "name": "好消息2台" },
+    { "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv076", "name": "亞洲旅遊台" },
+    { "url": "https://www.ofiii.com/channel/watch/litv-xinchuang19", "name": "Smart知識台" },
+    { "url": "https://www.ofiii.com/channel/watch/litv-xinchuang01", "name": "龍華卡通台" },
+    { "url": "https://www.ofiii.com/channel/watch/litv-xinchuang21", "name": "龍華經典台" },
+    { "url": "https://www.ofiii.com/channel/watch/litv-xinchuang03", "name": "龍華電影台" },
+    { "url": "https://www.ofiii.com/channel/watch/litv-xinchuang18", "name": "龍華戲劇台" },
+    { "url": "https://www.ofiii.com/channel/watch/litv-xinchuang12", "name": "龍華偶像台" },
+    { "url": "https://www.ofiii.com/channel/watch/litv-xinchuang11", "name": "龍華日韓台" },
+    { "url": "https://www.ofiii.com/channel/watch/litv-xinchuang02", "name": "龍華洋片台" },
+    { 
+      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
+      "name": "TVBS新聞(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/live/9iRAqBMakXY",
+      "name": "台視新聞(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
+      "name": "民視新聞(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/c/twctvnews/live",
+      "name": "中視新聞(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/live/vr3XyVCR4T0",
+      "name": "中天新聞(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+      "name": "公共電視(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
+      "name": "東森新聞(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
+      "name": "華視新聞(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/user/57ETFN/live",
+      "name": "東森財經(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "name": "寰宇新聞(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
+      "name": "大愛一臺(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OKvWtVoDR8I",
+      "name": "大愛二臺(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
+      "name": "三立 iNEWS 新聞(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+      "name": "鏡新聞(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yeYC0mbSIOo",
+      "name": "三立新聞(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
+      "name": "寰宇新聞台灣台(YT)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+      "name": "台視(YT)"
+    },
+    { "url": "http://107.150.60.122/live/cctv1hd.m3u8", "name": "CCTV1" },
+    { "url": "http://107.150.60.122/live/cctv2hd.m3u8", "name": "CCTV2" },
+    { "url": "http://107.150.60.122/live/cctv3hd.m3u8", "name": "CCTV3" },
+    { "url": "http://107.150.60.122/live/cctv4hd.m3u8", "name": "CCTV4" },
+    { "url": "http://107.150.60.122/live/cctv5hd.m3u8", "name": "CCTV5" },
+    { "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub", "name": "CCTV5+" },
+    { "url": "http://107.150.60.122/live/cctv6hd.m3u8", "name": "CCTV6" },
+    { "url": "http://107.150.60.122/live/cctv7hd.m3u8", "name": "CCTV7" },
+    { "url": "http://107.150.60.122/live/cctv8hd.m3u8", "name": "CCTV8" },
+    { "url": "http://107.150.60.122/live/cctv9hd.m3u8", "name": "CCTV9" },
+    { "url": "http://107.150.60.122/live/cctv10hd.m3u8", "name": "CCTV10" },
+    { "url": "http://107.150.60.122/live/cctv11hd.m3u8", "name": "CCTV11" },
+    { "url": "http://107.150.60.122/live/cctv12hd.m3u8", "name": "CCTV12" },
+    { "url": "http://107.150.60.122/live/cctv13hd.m3u8", "name": "CCTV13" },
+    { "url": "http://107.150.60.122/live/cctv14hd.m3u8", "name": "CCTV14" },
+    { "url": "http://107.150.60.122/live/cctv15hd.m3u8", "name": "CCTV15" },
+    { "url": "http://107.150.60.122/live/cctv16hd.m3u8", "name": "CCTV16" },
+    { "url": "http://107.150.60.122/live/cctv17hd.m3u8", "name": "CCTV17" },
+    { "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub", "name": "CCTV4k" }
+  ]
+}
