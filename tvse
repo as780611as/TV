@@ -1,0 +1,10 @@
+{
+  "urls": [
+{ "url": "http://www.饭太硬.cc/tv", "name": "饭太硬" },
+{ "url": "http://www.饭太硬.net/tv", "name": "饭太硬备" },
+{ "url": "http://肥猫.net/tv", "name": "肥猫" },
+{ "url": "https://raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/live.txt", "name": "中國TV" },
+{ "url": "https://raw.githubusercontent.com/LinWei630718/iptvtw/refs/heads/main/4gtv.m3u", "name": "4GTV" },
+{ "url": "https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u", "name": "iptv-api" },
+  ]
+}
