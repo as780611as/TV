@@ -98,6 +98,10 @@
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
       "name": "台視(YT)"
     },
+    {
+      "url": "https://www.youtube.com/watch?v=5sFglcMEm7I",
+      "name": "57怪奇物語(YT)"
+    },
     { "url": "http://107.150.60.122/live/cctv1hd.m3u8", "name": "CCTV1" },
     { "url": "http://107.150.60.122/live/cctv2hd.m3u8", "name": "CCTV2" },
     { "url": "http://107.150.60.122/live/cctv3hd.m3u8", "name": "CCTV3" },
