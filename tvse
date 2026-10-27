@@ -6,5 +6,6 @@
 { "url": "https://raw.githubusercontent.com/bluefriendCN/set/refs/heads/main/live.txt", "name": "中國TV" },
 { "url": "https://raw.githubusercontent.com/LinWei630718/iptvtw/refs/heads/main/4gtv.m3u", "name": "4GTV" },
 { "url": "https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u", "name": "iptv-api" },
+{ "url": "https://raw.githubusercontent.com/AA257265/265/refs/heads/main/live/4gtvo.txt", "name": "4GTV2" },
   ]
 }
